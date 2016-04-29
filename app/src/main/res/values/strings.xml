@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">GoorooTest</string>
+    <string name="app_name">Gooroo Test</string>
+
+    <string name="user_list">User\nList</string>
+    <string name="current_location">Current\nLocation</string>
+    <string name="map_locations">Map\nLocations</string>
+    <string name="tab_layout">Tab\nLayout</string>
+
+    <string name="btn_one">Button One</string>
+    <string name="btn_two">Button Two</string>
+    <string name="btn_three">Button Three</string>
+    <string name="btn_four">Button Four</string>
+    <string name="btn_five">Button Five</string>
+
+    <string name="enter_arrow">Enter Arrow</string>
+
+    <string name="menu_activity">MenuActivity</string>
+
 </resources>
